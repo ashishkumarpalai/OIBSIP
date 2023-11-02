@@ -23,5 +23,5 @@ menu.addEventListener('click',()=>{
 
 
 function resume(){
-    window.open("https://drive.google.com/file/d/1qnZ9yxq0C0yaFpIe9Qz2ptFs-fZT5s-Y/view")
+    window.open("https://drive.google.com/file/d/1h4kSUmziQZiryc4ZE6gCM2kKfs30sX0N/view?usp=drive_link")
 }
